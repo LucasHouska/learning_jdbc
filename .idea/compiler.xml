@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learning-jdbc (3)" />
+        <module name="learning-jdbc (2)" />
+        <module name="learning-jdbc (1)" />
+        <module name="learning-jdbc (19)" />
+        <module name="learning-jdbc (9)" />
+        <module name="learning-jdbc (8)" />
+        <module name="learning-jdbc (7)" />
+        <module name="learning-jdbc (6)" />
+        <module name="learning-jdbc (5)" />
+        <module name="learning-jdbc (4)" />
+        <module name="learning-jdbc" />
+        <module name="learning-jdbc (10)" />
+        <module name="learning-jdbc (20)" />
+        <module name="learning-jdbc (16)" />
+        <module name="learning-jdbc (15)" />
+        <module name="learning-jdbc (18)" />
+        <module name="learning-jdbc (17)" />
+        <module name="learning-jdbc (12)" />
+        <module name="learning-jdbc (11)" />
+        <module name="learning-jdbc (14)" />
+        <module name="learning-jdbc (13)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

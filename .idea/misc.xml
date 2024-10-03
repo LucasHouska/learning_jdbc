@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter 1/01_06/01_06_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_01/02_01_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_01/02_01_begin/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_03/02_03_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_03/02_03_begin/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_05/02_05_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_05/02_05_begin/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_06/02_06_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_06/02_06_begin/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_07/02_07_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_07/02_07_begin/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_10/02_10_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 2/02_10/02_10_begin/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/03_01/03_01_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/03_01/03_01_begin/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/03_02/03_02_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/03_02/03_02_begin/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/03_03/03_03_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 3/03_03/03_03_begin/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 4/04_02/04_02_end/learning-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter 4/04_02/04_02_begin/learning-jdbc/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
